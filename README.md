@@ -5,17 +5,17 @@ This is the [GitHub](https://github.com/hannahaih/hundertotter_CNN_ImageStyleTra
 
 # Repo Contents
 
-_notebook
+## notebook
 - main jupyter notebook used for this project including one example
 
-_results
+## results
 - gallery containing all pictures generated for the project
 
-_slides
+## slides
 - pdf containing the slides of the [final project presentation](https://docs.google.com/presentation/d/e/2PACX-1vSan8BX24nBzVhNgtzbmvPH9T3gldD-hJxDVUrIINlBVsGt-YMCTtQM6iDayWgmWD6eFbWapHyHxhZM/pub?start=false&loop=false&delayms=3000) 
 
-_example lossplot
-<img src="https://github.com/hannahaih/hundertotter_CNN_ImageStyleTransfer/blob/main/B_LossPlot.png?raw=true" width="100">
+## example lossplot
+<img src="https://github.com/hannahaih/hundertotter_CNN_ImageStyleTransfer/blob/main/B_LossPlot.png?raw=true" width="500">
 
 
 # About 
