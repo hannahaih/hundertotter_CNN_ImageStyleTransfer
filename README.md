@@ -1,13 +1,11 @@
-# hundertotter_CNN_ImageStyleTransfer
+# hundertotter CNN_ImageStyleTransfer
 
-IBM Deep Learning and Reinforcement Learning
-
-This is the [GitHub](https://github.com/hannahaih/hundertotter_CNN_ImageStyleTransfer) repo of my final project for the [IBM Course](https://www.coursera.org/learn/deep-learning-reinforcement-learning)
+This is the [GitHub](https://github.com/hannahaih/hundertotter_CNN_ImageStyleTransfer) repo of my final project for the [IBM Course Deep Learning and Reinforcement Learning](https://www.coursera.org/learn/deep-learning-reinforcement-learning)
 
 
 # Repo Contents
 
-__/notebook/__
+notebook
 - main jupyter notebook used for this project including one example
 
 __/results/__
