@@ -2,7 +2,7 @@
 
 IBM Deep Learning and Reinforcement Learning
 
-This is the [![GitHub](https://github.com/hannahaih/hundertotter_CNN_ImageStyleTransfer) repo of my final project for the [![IBM Course](https://www.coursera.org/learn/deep-learning-reinforcement-learning)
+This is the [GitHub](https://github.com/hannahaih/hundertotter_CNN_ImageStyleTransfer) repo of my final project for the [![IBM Course](https://www.coursera.org/learn/deep-learning-reinforcement-learning)
 
 
 # Repo Contents
