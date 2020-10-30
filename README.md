@@ -14,7 +14,7 @@ This is the [GitHub](https://github.com/hannahaih/hundertotter_CNN_ImageStyleTra
 ## slides
 - pdf containing the slides of the [final project presentation](https://docs.google.com/presentation/d/e/2PACX-1vSan8BX24nBzVhNgtzbmvPH9T3gldD-hJxDVUrIINlBVsGt-YMCTtQM6iDayWgmWD6eFbWapHyHxhZM/pub?start=false&loop=false&delayms=3000) 
 
-## example lossplot
+## example loss plot
 <img src="https://github.com/hannahaih/hundertotter_CNN_ImageStyleTransfer/blob/main/B_LossPlot.png?raw=true" width="500">
 
 
@@ -24,5 +24,6 @@ The project uses [Image Style Transfer Using Convolutional Neural Networks](http
 and [VGG19](https://pytorch.org/hub/pytorch_vision_vgg/) to transfer the slyle of Hundertwasser paintings to photos of sea otters for a fictional charity event for protection of wild sea otters hosted by the Hundertwasser Foundation of a parallel universe. 
 
 
+<img src="https://github.com/hannahaih/hundertotter_CNN_ImageStyleTransfer/blob/main/B_out.png?raw=true" width="500">
 
 
